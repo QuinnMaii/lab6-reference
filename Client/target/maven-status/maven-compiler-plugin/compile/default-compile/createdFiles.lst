@@ -1,0 +1,5 @@
+Commands\SpecificCommands\RemoveGreater.class
+Commands\SpecificCommands\PrintFieldAscendingDistance.class
+Commands\SpecificCommands\PrintFieldAscendingType.class
+Commands\SpecificCommands\PrintUniqueDistance.class
+Commands\SpecificCommands\RemoveLower.class
